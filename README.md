@@ -10,5 +10,5 @@
 
 - :sparkles: I enjoy automating stuffs and developing web apps.
 
-- :blue_book: I’m currently learning Laravel 9.
+- :blue_book: I’m currently learning Laravel Framework.
 
