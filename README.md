@@ -14,7 +14,7 @@
 
 - :bust_in_silhouette: I'm interested in cybersecurity.
 
-- :sparkles: I enjoy automating stuffs and developing web apps.
+- :sparkles: I enjoy automating stuffs.
 
 - 📫 Contact me at **lucharlod@gmail.com**
 
