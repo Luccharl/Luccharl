@@ -3,16 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Luc Charl</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luccharl&label=Profile%20views&color=0e75b6&style=flat" alt="luccharl" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccharl" alt="luccharl" /></a> </p>
 
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
-- :computer: Currently pursuing Bachelor of Science in Information Technology.
+- :computer: Currently pursuing **Bachelor of Science in Information Technology**.
 
-- :bust_in_silhouette: I'm interested in cybersecurity.
+- :bust_in_silhouette: I'm interested in **cybersecurity**.
 
 - :sparkles: I enjoy automating stuffs.
 
