@@ -3,8 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Luc Charl</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccharl" alt="luccharl" /></a> </p>
-
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
