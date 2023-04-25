@@ -1,4 +1,4 @@
-<center><img src="./1085123.png" alt="avatar" style='width:500px;height:500px'></center>
+<center><img src="./1085123.png" alt="avatar" style='width:300px;height:300px'></center>
 
 
 <h1 align="center">Hi 👋, I'm Luc Charl</h1>
