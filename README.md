@@ -1,5 +1,6 @@
-<img  align="center" src="./1085123.png" alt="avatar" style='width:100px;height:150px'>
-
+<div style="text-align: center;">
+  <img src="./1085123.png" alt="avatar" style="width:100px;height:150px;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Luc Charl</h1>
 
