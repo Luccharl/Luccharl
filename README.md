@@ -8,7 +8,7 @@
 
 :computer: I'm in my fourth year of studying **Bachelor of Science in Information Technology**.
 
-📫Contact me at **lucharlod@gmail.com**
+📫Looking to collab? Contact me at **lucharlod@gmail.com**
 
 ⚔️ I'm lurking at <a href="https://www.codewars.com/users/Luccharl"> codewars </a> during my free time. 
 
