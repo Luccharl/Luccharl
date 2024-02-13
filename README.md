@@ -4,13 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Luc Charl</h1>
 
-🌱 I’m currently learning **Laravel**
+🌱 I’m currently enrolled at Hack-the-box Academy learning cybersecurity fundamentals.
 
-:computer: Currently pursuing **Bachelor of Science in Information Technology**.
+:computer: I'm in my fourth year of studying **Bachelor of Science in Information Technology**.
 
-🔭 I’m currently working on **TanHSLMS as part of my capstone project**
-
-⚡ I am a bit interested in **cybersecurity and automation**
+⚔️ I'm lurking at <a href="https://www.codewars.com"> codewars </a> during my free time. 
 
 📫Contact me at **lucharlod@gmail.com**
  
