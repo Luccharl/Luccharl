@@ -8,7 +8,7 @@
 
 :computer: I'm in my fourth year of studying **Bachelor of Science in Information Technology**.
 
-⚔️ I'm lurking at <a href="https://www.codewars.com"> codewars </a> during my free time. 
+⚔️ I'm lurking at <a href="https://www.codewars.com/users/Luccharl"> codewars </a> during my free time. 
 
 📫Contact me at **lucharlod@gmail.com**
  
