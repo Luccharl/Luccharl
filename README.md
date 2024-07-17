@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Luc Charl</h1>
 
-🌱 I’m currently enrolled at Hack-the-box Academy learning cybersecurity fundamentals.
+🌱 Currently self-studying cybersecurity fundamentals at Hack-the-box Academy.
 
-:computer: I'm in my fourth year of studying **Bachelor of Science in Information Technology**.
+:computer: A graduate **Bachelor of Science in Information Technology**.
 
 📫Looking to collab? Contact me at **lucharlod@gmail.com**
 
-⚔️ I'm lurking at <a href="https://www.codewars.com/users/Luccharl"> codewars </a> during my free time. 
+⚔️ I might be lurking at <a href="https://www.codewars.com/users/Luccharl"> codewars </a> during my free time. 
 
 <p align="left">
   <img src="https://www.codewars.com/users/Luccharl/badges/small" alt="codewars"/> 
