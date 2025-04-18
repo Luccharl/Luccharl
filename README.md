@@ -9,12 +9,6 @@
 :computer: A graduate **Bachelor of Science in Information Technology**.
 
 📫Looking to collab? Contact me at **lucharlod@gmail.com**
-
-⚔️ I might be lurking at <a href="https://www.codewars.com/users/Luccharl"> codewars </a> during my free time. 
-
-<p align="left">
-  <img src="https://www.codewars.com/users/Luccharl/badges/small" alt="codewars"/> 
-</p>
  
 <h3 align="left">Tech Stack: </h3>
 <p align="left">
