@@ -8,13 +8,11 @@ I'm a Quality Assurance tester focused on manual testing, with a growing interes
 
 - 🧪 Manual & Unit Testing | QA Documentation 
 - 🔧 Backend Development | Laravel, PHP, MySQL, PostgreSQL
-- 🚀 Aspiring Automation Tester | Selenium & CI/CD exploration
 
 ## 🚀 What I'm Working On
 
 - 📌 Mastering GitHub and GitHub Actions for streamlined workflows
-- 🛠️ Learning Jira for issue tracking and agile task management
-- 🧾 Studying foundational accounting to better test financial systems
+- 🚀 Automation Testing | Selenium, Playwright & CI/CD exploration
 
 ## 🧰 Tools & Tech I Use
 
