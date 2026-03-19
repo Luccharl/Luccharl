@@ -24,10 +24,6 @@ I'm a Quality Assurance tester focused on manual testing, with a growing interes
 | DevOps & Version Control  | Ubuntu, Git                                    |
 | Project & Task Management | Notion, Lark, Scrum                            |
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/luccharl/)
-
 ---
 
 _Thanks for stopping by! 🚀_
